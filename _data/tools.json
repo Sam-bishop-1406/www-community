@@ -90,6 +90,15 @@
           "type": "DAST"
    },
    {
+      "title": "ZeroThreat",
+      "url": "https://zerothreat.ai/",
+      "owner": "ZeroThreat",
+      "license": "Free",
+      "platforms": "Any",
+      "note": "Paid Option Available",
+      "type": "DAST"
+   },
+   {
       "title": "Astra Security Suite",
       "url": "https://www.getastra.com",
       "owner": "Astra Security",
